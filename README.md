@@ -1,7 +1,6 @@
 # jokenpo
 
-A new Flutter project.
-
+Aplicativo interativo de JokenPo.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
